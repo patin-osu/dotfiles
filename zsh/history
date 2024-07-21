@@ -1,0 +1,49 @@
+: 1721570310:0;sudo pacman -S ark
+: 1721570465:0;cd .config/alacritty
+: 1721570466:0;ls
+: 1721570473:0;nano alacritty.toml
+: 1721570528:0;jdksfldfsdfslfsdklf
+: 1721570530:0;<=
+: 1721570590:0;git clone https://github.com/alacritty/alacritty-theme themes
+: 1721570641:0;nano alacritty.toml
+: 1721570938:0;sudo pacman -S zoxide
+: 1721571071:0;z
+: 1721571074:0;z /
+: 1721571074:0;ls
+: 1721571096:0;sudo pacman -S eza
+: 1721571102:0;eza
+: 1721571106:0;eza --help
+: 1721571156:0;eza -A
+: 1721571159:0;eza -l
+: 1721571162:0;eza -l -icons
+: 1721571193:0;eza -l -t
+: 1721571199:0;eza -l -t -snew
+: 1721571230:0;eza -l -k
+: 1721571231:0;eza -l -l
+: 1721571244:0;eza --help | grep icon
+: 1721571255:0;eza -l --icons=always
+: 1721571415:0;ls
+: 1721571423:0;ll
+: 1721571521:0;git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
+: 1721571539:0;mv zsh-syntax-highlighting $ZSH/plugins
+: 1721571561:0;source ~/.zshrc
+: 1721571565:0;mv zsh-syntax-highlighting $ZSH/plugins
+: 1721571717:0;sudo pacman -S mc
+: 1721571719:0;mc
+: 1721571732:0;nano
+: 1721571740:0;nano .bash_history
+: 1721571788:0;ls 
+: 1721571798:0;clear
+: 1721571799:0;mc
+: 1721571899:0;clear
+: 1721571924:0;EDITOR='nano' mc
+: 1721571999:0;clear
+: 1721572025:0;sudo pacman -S ufw
+: 1721572208:0;clear
+: 1721572215:0;curl -fsSL https://tailscale.com/install.sh | sh
+: 1721572234:0;	sudo tailscale up
+: 1721572751:0;mpv https://www.youtube.com/watch\?v\=7rdc-QV6P6s
+: 1721572774:0;nvtop
+: 1721573263:0;sudo pacman -S fastfetch && fastfetch
+: 1721573759:0;killall javaw
+: 1721573760:0;killall java
